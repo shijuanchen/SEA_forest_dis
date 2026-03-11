@@ -6,3 +6,4 @@ Zenodo link: https://zenodo.org/records/18841734
 
 Google Earth Engine link: Will add it soon. 
 
+![Picture1](https://github.com/user-attachments/assets/3dfc06a8-8237-4b4c-b6fe-546a92d401ce)
